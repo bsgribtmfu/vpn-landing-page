@@ -1,0 +1,20 @@
+{
+  "name": "landing_vpn",
+  "version": "1.0.0",
+  "description": "landing page",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsgribtmfu/vpn-landing-page.git"
+  },
+  "author": "bsgribtmfu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsgribtmfu/vpn-landing-page/issues"
+  },
+  "homepage": "https://github.com/bsgribtmfu/vpn-landing-page#readme"
+}
