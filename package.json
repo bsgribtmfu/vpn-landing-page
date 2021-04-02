@@ -2,8 +2,12 @@
   "name": "landing_vpn",
   "version": "1.0.0",
   "description": "landing page",
+  "main": "index.js",
   "type": "module",
-  "main": "index.html",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/bsgribtmfu/vpn-landing-page.git"
   },
-  "author": "bsgribtmfu",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bsgribtmfu/vpn-landing-page/issues"
